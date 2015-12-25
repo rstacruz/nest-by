@@ -7,6 +7,8 @@ Works like [group-by] or [lodash.groupBy], but also:
 - can nest recursively
 - works with objects as well as arrays
 
+[![Status](https://travis-ci.org/rstacruz/nest-by.svg?branch=master)](https://travis-ci.org/rstacruz/nest-by "See test builds")
+
 [group-by]: https://www.npmjs.com/package/group-by
 [lodash.groupBy]: https://lodash.com/docs#groupBy
 
